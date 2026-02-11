@@ -1,5 +1,5 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/github-svgrepo-2Yf5dnJ7.js","assets/index-BkCaFb5e.js","assets/index-TXPf__kP.css","assets/linkedin-C0oz2PV4.js"])))=>i.map(i=>d[i]);
-import{f as l,r as o,j as e,_ as a}from"./index-BkCaFb5e.js";const i=o.lazy(()=>a(()=>import("./github-svgrepo-2Yf5dnJ7.js"),__vite__mapDeps([0,1,2]))),c=o.lazy(()=>a(()=>import("./linkedin-C0oz2PV4.js"),__vite__mapDeps([3,1,2])));function d(t){window.open(t,"_blank").focus()}const p=({href:t,children:r,Icon:n})=>e.jsxs("button",{className:`left-0 flex items-center justify-center w-full  md:gap-1 gap-0.25 \r
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/github-svgrepo-DV-8NFaZ.js","assets/index-Bjnt7d94.js","assets/index-CgGN4R0R.css","assets/linkedin-CYxYfnaY.js"])))=>i.map(i=>d[i]);
+import{f as l,r as o,j as e,_ as a}from"./index-Bjnt7d94.js";const i=o.lazy(()=>a(()=>import("./github-svgrepo-DV-8NFaZ.js"),__vite__mapDeps([0,1,2]))),c=o.lazy(()=>a(()=>import("./linkedin-CYxYfnaY.js"),__vite__mapDeps([3,1,2])));function d(t){window.open(t,"_blank").focus()}const p=({href:t,children:r,Icon:n})=>e.jsxs("button",{className:`left-0 flex items-center justify-center w-full  md:gap-1 gap-0.25 \r
                 bg-conic-60 from-purple-500 via-purple-800 to-purple-500 md:p-2 md:px-3 p-1.5 px-2 rounded-full\r
                 text-amber-400 \r
                 transition-shadow relative\r
