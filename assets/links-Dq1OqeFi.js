@@ -1,5 +1,5 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/github-svgrepo-D1v0Cd_D.js","assets/index-BD4OeGUb.js","assets/index-CgGN4R0R.css","assets/linkedin-QoWp0ZLt.js"])))=>i.map(i=>d[i]);
-import{u as l,r as o,j as e,_ as a}from"./index-BD4OeGUb.js";const i=o.lazy(()=>a(()=>import("./github-svgrepo-D1v0Cd_D.js"),__vite__mapDeps([0,1,2]))),c=o.lazy(()=>a(()=>import("./linkedin-QoWp0ZLt.js"),__vite__mapDeps([3,1,2])));function d(t){window.open(t,"_blank").focus()}const p=({href:t,children:r,Icon:n})=>e.jsxs("button",{className:`left-0 flex items-center justify-center w-full  md:gap-1 gap-0.25 \r
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/github-svgrepo-Bp7rk5KJ.js","assets/index-CDKOpvXi.js","assets/index-CgGN4R0R.css","assets/linkedin-DCD2NuqM.js"])))=>i.map(i=>d[i]);
+import{u as l,r as o,j as e,_ as a}from"./index-CDKOpvXi.js";const i=o.lazy(()=>a(()=>import("./github-svgrepo-Bp7rk5KJ.js"),__vite__mapDeps([0,1,2]))),c=o.lazy(()=>a(()=>import("./linkedin-DCD2NuqM.js"),__vite__mapDeps([3,1,2])));function d(t){window.open(t,"_blank").focus()}const p=({href:t,children:r,Icon:n})=>e.jsxs("button",{className:`left-0 flex items-center justify-center w-full  md:gap-1 gap-0.25 \r
                 bg-conic-60 from-purple-500 via-purple-800 to-purple-500 md:p-2 md:px-3 p-1.5 px-2 rounded-full\r
                 text-amber-400 \r
                 transition-shadow relative\r
